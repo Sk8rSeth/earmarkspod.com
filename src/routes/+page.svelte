@@ -7,8 +7,10 @@
   import Footer from '$lib/components/footer.svelte'
   import Post from '$lib/components/post_card.svelte'
   import Profile from '$lib/components/index_profile.svelte'
+  import { clickToCopy } from '$lib/utils/clickToCopy.js'
 
   let loaded: boolean
+  let email = 'Earmarks@punk.dev'
 
   onMount(() => {
     if (browser) {
@@ -46,6 +48,7 @@
         in:fly={{ x: -25, duration: 300, delay: 500 }}
         out:fly={{ x: -25, duration: 300 }}>
         <h1>Welcome!</h1>
+        <button use:clickToCopy={email} class="btn btn-outline">Clicky to Copy Email</button>
       </div>
     </main>
     <div
