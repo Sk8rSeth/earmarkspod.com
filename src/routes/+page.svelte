@@ -58,3 +58,13 @@
     </div>
   </div>
 </div>
+
+<style>
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    margin: 2rem 0;
+  }
+</style>
