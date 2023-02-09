@@ -42,7 +42,7 @@
         <h1>Welcome Nerd!</h1>
         <p>This is a chill podcast (available in both audio and video formats) meant to convince you to seek out and enjoy various out-of-print and hard to find books, and why you should. We dont strictly adhere to a specific genre or type of book, though scifi novels seem to feature heavily (what can I say?)</p>
         <p>Check out the written version of each review in the <a href="/episodes">episodes</a> page (or from the nav menu) for longer and usually slightly more detailed versions of the podcast episodes.</p>
-        <p>If you have suggestions for books you think I should include in this show, email me please! Link below. I want to know about that shit!</p>
+        <p>If you have suggestions for books you think I should include in this show, email me please! Link below.</p>
         <button use:clickToCopy={email} class="btn btn-outline">Clicky to Copy Email</button>
       </div>
     </main>
