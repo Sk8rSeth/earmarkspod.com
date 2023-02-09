@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    uses: Sk8rSeth/earmarkspod.com/.github/workflows/pnpm-gh-pages.yml@main
+    uses: importantimport/.github/.github/workflows/pnpm-gh-pages.yml@main
     permissions:
       contents: write
     with:
