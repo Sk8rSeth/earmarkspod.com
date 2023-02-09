@@ -14,3 +14,10 @@
   width="750"
   style="border: none; max-width: 700px;"
   allowfullscreen />
+
+<!-- 
+<script>
+    import RedCircle from '$lib/components/extra/redcircle.svelte'
+</script>
+
+<RedCircle id='589bafd5-c0a7-49e6-b331-71ecf56cca32' /> -->
