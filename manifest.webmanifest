@@ -12,25 +12,25 @@
   "theme_color": "#3D4451",
   "icons": [
     {
-      "src": "https://earmarkspod.com/assets/any@192.png",
+      "src": "https://earmarkspod.com/assets/EarmarksLogo-V1",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://earmarkspod.com/assets/any@512.png",
+      "src": "https://earmarkspod.com/assets/EarmarksLogo-V1",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://earmarkspod.com/assets/maskable@192.png",
+      "src": "https://earmarkspod.com/assets/EarmarksLogo-V1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://earmarkspod.com/assets/maskable@512.png",
+      "src": "https://earmarkspod.com/assets/EarmarksLogo-V1.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
