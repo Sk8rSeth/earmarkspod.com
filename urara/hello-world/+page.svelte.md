@@ -3,9 +3,9 @@ title: 'Hello World'
 image: '/hello-world/urara.webp'
 created: 2021-11-01
 updated: 2021-12-12
-tags:
-  - 'Hello World'
-  - 'Urara'
+
+flags: 
+    - unlisted
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.
